@@ -6,5 +6,10 @@
                 <value id="realexpayments.com" type="host">*.realexpayments.com</value>
             </values>
         </policy>
+        <policy id="frame-src">
+            <values>
+                <value id="realexpayments.com" type="host">*.realexpayments.com</value>
+            </values>
+        </policy>
     </policies>
 </csp_whitelist>
