@@ -3,7 +3,7 @@
     <policies>
         <policy id="form-action">
             <values>
-                <value id="realexpayments.com" type="host">*..realexpayments.com</value>
+                <value id="realexpayments.com" type="host">*.realexpayments.com</value>
             </values>
         </policy>
     </policies>
